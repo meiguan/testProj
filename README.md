@@ -8,7 +8,7 @@ Topics:
 - Navigate and use the Atom editor
 - Importance of using launching a server to view updates/ changes immediately on browser
 
-HTML - [Cheatsheet!](https://htmlcheatsheet.com/)
+HTML - [Cheatsheet](https://htmlcheatsheet.com/)
 - Tags - denoted with brackets <div> </div>
 - Divs - divisions of the page, can be nested
 - H1 - H6 - header tags
@@ -20,9 +20,9 @@ HTML - [Cheatsheet!](https://htmlcheatsheet.com/)
 - Ids - identifier for things that are unique on the page
 
 
-CSS - [Cheatsheet!](https://htmlcheatsheet.com/css/)
+CSS - [Cheatsheet](https://htmlcheatsheet.com/css/)
 - Selectors
-- . selects by class
+- `.` selects by class
 - # selects by id
 - Cascading
 - Font-size
