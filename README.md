@@ -23,7 +23,7 @@ HTML - [Cheatsheet](https://htmlcheatsheet.com/)
 CSS - [Cheatsheet](https://htmlcheatsheet.com/css/)
 - Selectors
 - `.` selects by class
-- # selects by id
+- `#` selects by id
 - Cascading
 - Font-size
 - Color - HTML Colors https://www.w3schools.com/colors/colors_names.asp
